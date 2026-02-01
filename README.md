@@ -44,7 +44,7 @@ Run the application:
 
 java Calculator
 📸 Screenshot
-![Calculator Screenshot](arithmomhxanh.png)
+![Calculator Screenshot](Arithmomhxanh.png)
 
 📚 What I Learned
 Creating GUIs with Java Swing
